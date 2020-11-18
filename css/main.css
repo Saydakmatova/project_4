@@ -78,6 +78,7 @@ header a {
 .btn {
 	display: block;
 	width: 238px;
+	padding: 15px;
 	font-size: 17px;
 	text-align: center;
 	letter-spacing: 0.1em;
@@ -86,6 +87,7 @@ header a {
 	border: 1px solid #FFFFFF; /*??????*/
 	box-sizing: border-box;
 	transition: all 0.5s ease;
+
 }
 .btn:hover {
 	background: #fff;
@@ -117,4 +119,5 @@ header a {
 }
 .footer-text {
 	margin-right: 67px;
+	justify-content: space-between;
 }
